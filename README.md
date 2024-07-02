@@ -2,8 +2,8 @@
 Faculty Incharge : [Lifna C S](mailto:lifna.cs@ves.ac.in), [Priya R L](mailto:priya.rl@ves.ac.in)
 
 ## Pre-requisites : [Introduction to Cryptography: Hash functions, Public key cryptography, Digital Signature (ECDSA)](https://github.com/LifnaJos/HBCC501-Bitcoin-and-Cryptocurrency/blob/main/M0_Intoduction_Cryptography.pdf)
-| No | Rubrics | Marks | Document |
-| :--: | ------------------ | :----: | :--------:|
+| No | Rubrics | Marks |
+| :--: | ------------------ | :----: | 
 | 1 | End Semester Exam | 80 Marks | 
 | 2 | Internal Assessment | 20 Marks | 
 |   | Test - 1 | 20 Marks | 
